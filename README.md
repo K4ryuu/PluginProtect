@@ -1,13 +1,16 @@
 <font face = "Trebuchet MS">
 <div align="center">
-    <h2 align="center">Project Title</h2>
-    <p align="center">Project Description</p>
+    <h2 align="center">Plugin Protect</h2>
+    <p align="center">Some of ya'all wants to protect their compiled .smx for whatever reason to run only on a specified IP address. Well... One of my clients asked me to create a simple library to do that without any coding skills needed. Here you go. NOTE: This does not block decompile of the plugin, it just simply won't start on un-authorised servers.</p>
+    </br>
+    ````Usage: #include <plugin_protect>````
+</br>
     <b>
-        <a href="https://github.com/K4ryuu/Project_Template/releases">Download</a>
+        <a href="https://github.com/K4ryuu/PluginProtect/releases">Download</a>
         ·
-        <a href="https://github.com/K4ryuu/Project_Template/issues">Report Bug</a>
+        <a href="https://github.com/K4ryuu/PluginProtect/issues">Report Bug</a>
         ·
-        <a href="https://github.com/K4ryuu/Project_Template/issues">Request Feature</a>
+        <a href="https://github.com/K4ryuu/PluginProtect/issues">Request Feature</a>
     </b>
     <br/>
     <b>Do not forget to give a ⭐ on the projects!</b><br/><br/>
