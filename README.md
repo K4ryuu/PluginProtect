@@ -3,7 +3,10 @@
     <h2 align="center">Plugin Protect</h2>
     <p align="center">Some of ya'all wants to protect their compiled .smx for whatever reason to run only on a specified IP address. Well... One of my clients asked me to create a simple library to do that without any coding skills needed. Here you go. NOTE: This does not block decompile of the plugin, it just simply won't start on un-authorised servers.</p>
     </br>
-    ````Usage: #include <plugin_protect>````
+   <b>Usage:</b> #include &lt;plugin_protec&gt;
+    </br>
+  Yes it's that simple.
+   </br>
 </br>
     <b>
         <a href="https://github.com/K4ryuu/PluginProtect/releases">Download</a>
