@@ -1,7 +1,7 @@
 <font face = "Trebuchet MS">
 <div align="center">
     <h2 align="center">Plugin Protect</h2>
-    <p align="center">Some of ya'all wants to protect their compiled .smx for whatever reason to run only on a specified IP address. Well... One of my clients asked me to create a simple library to do that without any coding skills needed. Here you go. NOTE: This does not block decompile of the plugin, it just simply won't start on un-authorised servers.</p>
+    <p align="center">Some of y'all wants to protect their compiled .smx for whatever reason to run only on a specified IP address. Well... One of my clients asked me to create a simple library to do that without any coding skills needed. Here you go. NOTE: This does not block decompile of the plugin, it just simply won't start on un-authorised servers.</p>
     </br>
    <b>Usage:</b> #include &lt;plugin_protect&gt;
     </br>
