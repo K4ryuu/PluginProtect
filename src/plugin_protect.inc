@@ -8,7 +8,7 @@
 #include <SteamWorks>
 
 /* <----> Add the servers IPs here, which can run the scripts. <----> */
-static char cServers[2][] = {
+static char cServers[][] = {
 		"0.0.0.0:27400",
 		"0.0.0.0:27500"
 	};
