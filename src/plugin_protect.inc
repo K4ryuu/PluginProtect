@@ -22,7 +22,7 @@ stock void PluginProtect_IsValidServer()
 		return;
 	}
 
-	static char cIP[16];
+	static char cIP[32];
 
 	if (cIP[0] == '\0')
 	{
