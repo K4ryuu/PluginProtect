@@ -33,7 +33,7 @@ stock void PluginProtect_IsValidServer()
 			return;
 		}
 
-		FormatEx(cIP, sizeof(cIP), "%d.%d.%d.%d:%d/%s", iIP[0], iIP[1], iIP[2], iIP[3], GetConVarInt(FindConVar("hostport")));
+		FormatEx(cIP, sizeof(cIP), "%d.%d.%d.%d:%d", iIP[0], iIP[1], iIP[2], iIP[3], GetConVarInt(FindConVar("hostport")));
 	}
 
 	int iServerNum = sizeof(cServers);
